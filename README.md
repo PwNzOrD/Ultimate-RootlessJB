@@ -1,14 +1,14 @@
-**Ultimate RootlessJB**
+# Ultimate RootlessJB
 
 The ultimate RootlessJB build with both dpkg and a better iSuperSU.
 
 
-**Compatibility :**
+## Compatibility
 
 iOS 12 —> 12.1.2
 
 
-**Thanks to :**
+## Thanks to
 
 - @Jakeashacks (RootlessJB 3.2) --> https://github.com/jakeajames/rootlessJB3
 
